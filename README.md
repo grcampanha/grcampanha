@@ -1,8 +1,8 @@
 ## Olá, eu sou o Guilherme Campanha!
 <div align="center">
   <a href="https://github.com/grcampanha">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=grcampanha&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grcampanha&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=grcampanha&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grcampanha&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" width="125" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
