@@ -3,8 +3,8 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 <p align='center'>
-   <a href="https://www.linkedin.com/in/guilhermecampanha/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>&nbsp;&nbsp;
-  <a href="http://guilhermecampanha.com.br"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg"/></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/guilhermecampanha/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>&nbsp;&nbsp;
+  <a href="http://guilhermecampanha.com.br"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg"/></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/gcampanhaa/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 <div align="center">
