@@ -5,7 +5,7 @@
    <a href="https://www.linkedin.com/in/guilhermecampanha/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>&nbsp;&nbsp;
 </p>
 <div align="center">
-   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Guilherme Campanha | 💻 Data Science | 🛸 Brazil , SP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Guilherme Campanha | 📊 Data Science | 🌎 Brazil , SP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <br>
 <p align="center" >
